@@ -150,5 +150,3 @@ This project is available for educational purposes. Feel free to use, modify, an
 
 
 
-
-![Screenshot 2024-07-02 203550](https://github.com/romasahani/Web_Scraper/assets/121279220/b96a9688-2982-4e02-90b8-28cf3b76dc14)
